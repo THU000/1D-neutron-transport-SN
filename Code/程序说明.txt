@@ -1,0 +1,3 @@
+getGaussianQuadTuple,m        获取从2到10偶数阶的高斯积分系数
+oneDimensionPlane.m             一维平板情况
+oneDimensionSphere.m          一维球体情况
